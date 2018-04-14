@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: b7f7be7372f10b04bbc6d36b62d59ff6
+timeCreated: 1495124822
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stick2_0
+    21300002: stick2_1
+    21300004: stick2_2
+    21300006: stick2_3
+    21300008: stick2_4
+    21300010: stick2_5
+    21300012: stick2_6
+    21300014: stick2_7
+    21300016: stick2_8
+    21300018: stick2_9
+    21300020: stick2_10
+    21300022: stick2_11
+    21300024: stick2_12
+    21300026: stick2_13
+    21300028: stick2_14
+    21300030: stick2_15
+    21300032: stick2_16
+    21300034: stick2_17
+    21300036: stick2_18
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stick2_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 17
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick2_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 17
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick2_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 17
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick2_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 17
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick2_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 17
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick2_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 17
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick2_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 17
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick2_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 17
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick2_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 17
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick2_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 17
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick2_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 17
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick2_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 17
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick2_12
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 17
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick2_13
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 17
+        width: 29
+        height: 49
+      alignment: 9
+      pivot: {x: 0.6364704, y: 0.3876279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick2_14
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 17
+        width: 42
+        height: 49
+      alignment: 9
+      pivot: {x: 0.19683039, y: 0.3911395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick2_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 17
+        width: 44
+        height: 49
+      alignment: 9
+      pivot: {x: 0.17150393, y: 0.3876279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick2_16
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 17
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick2_17
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 17
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stick2_18
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 17
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
